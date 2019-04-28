@@ -1,51 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BR:Baby TV HD" tvg-logo="https://2.bp.blogspot.com/-J60YUDRbLHs/WqvTMy8G9jI/AAAAAAAAAZk/c64tDN22TxU4TWABkvnQ96kRVldpw5vtwCLcBGAs/s1600/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="INFANTIL",BR:Baby TV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141978
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BR:Baby TV SD" tvg-logo="https://2.bp.blogspot.com/-J60YUDRbLHs/WqvTMy8G9jI/AAAAAAAAAZk/c64tDN22TxU4TWABkvnQ96kRVldpw5vtwCLcBGAs/s1600/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="INFANTIL",BR:Baby TV SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141979
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BR:Boomerang HD." tvg-logo="https://2.bp.blogspot.com/-LTXnHxIYJhU/WqvTPVUQ-JI/AAAAAAAAAZ8/GEdiLYSVW1wGBpTPKa1aniVhGNyv7H32wCLcBGAs/s1600/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="INFANTIL",BR:Boomerang HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141963
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BR:Boomerang SD" tvg-logo="https://2.bp.blogspot.com/-LTXnHxIYJhU/WqvTPVUQ-JI/AAAAAAAAAZ8/GEdiLYSVW1wGBpTPKa1aniVhGNyv7H32wCLcBGAs/s1600/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="INFANTIL",BR:Boomerang SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141964
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="BR:Cartoon Network HD." tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="INFANTIL",BR:Cartoon Network HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141956
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="BR:Cartoon Network SD." tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="INFANTIL",BR:Cartoon Network SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141957
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR: Discovery Kids Principal HD" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="INFANTIL",BR: Discovery Kids Principal HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153745
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR:DISCOVERY KIDS HD." tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="INFANTIL",BR:DISCOVERY KIDS HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141940
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="BR:Discovery Kids SD." tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="INFANTIL",BR:Discovery Kids SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141941
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="BR:Disney Channel HD." tvg-logo="https://2.bp.blogspot.com/-yS-DF0XYMAI/WqvTW9yJn2I/AAAAAAAAAbI/5ahRfOC_FlQt4W-YgHiAcGCoZ_e7S9Q6gCLcBGAs/s1600/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="INFANTIL",BR:Disney Channel HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141926
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="BR:Disney Channel SD." tvg-logo="https://2.bp.blogspot.com/-yS-DF0XYMAI/WqvTW9yJn2I/AAAAAAAAAbI/5ahRfOC_FlQt4W-YgHiAcGCoZ_e7S9Q6gCLcBGAs/s1600/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.png" group-title="INFANTIL",BR:Disney Channel SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141927
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="BR: Disney JR FHD" tvg-logo="https://1.bp.blogspot.com/-2v1NZSIkQDE/WqvTXcugorI/AAAAAAAAAbQ/XHzVG9xh3gQumP6YhD6iFzzgZSurepUSQCLcBGAs/s1600/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="INFANTIL",BR: Disney JR FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153744
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="BR:Disney Junior HD." tvg-logo="https://1.bp.blogspot.com/-2v1NZSIkQDE/WqvTXcugorI/AAAAAAAAAbQ/XHzVG9xh3gQumP6YhD6iFzzgZSurepUSQCLcBGAs/s1600/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="INFANTIL",BR:Disney Junior HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141924
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="BR:Disney Junior SD." tvg-logo="https://1.bp.blogspot.com/-2v1NZSIkQDE/WqvTXcugorI/AAAAAAAAAbQ/XHzVG9xh3gQumP6YhD6iFzzgZSurepUSQCLcBGAs/s1600/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.png" group-title="INFANTIL",BR:Disney Junior SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141925
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="BR:Disney XD HD." tvg-logo="https://1.bp.blogspot.com/-6XruFOLtjow/WqvTXwMsKXI/AAAAAAAAAbM/XUz1CFNIpS0zobvIRlNUVHuVOkiqowS3QCLcBGAs/s1600/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.png" group-title="INFANTIL",BR:Disney XD HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141922
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR:Gloob HD." tvg-logo="https://3.bp.blogspot.com/-x16BRujGjSw/WqvThQl9WBI/AAAAAAAAAcs/Zj1KrysHaAY9oviAzlzF7IQMEQagYTd6wCLcBGAs/s1600/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="INFANTIL",BR:Gloob HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141864
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR:Gloob SD." tvg-logo="https://3.bp.blogspot.com/-x16BRujGjSw/WqvThQl9WBI/AAAAAAAAAcs/Zj1KrysHaAY9oviAzlzF7IQMEQagYTd6wCLcBGAs/s1600/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.png" group-title="INFANTIL",BR:Gloob SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141865
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="BR:NatGeo Kids HD." tvg-logo="https://2.bp.blogspot.com/-Y2rtUjbV4nM/WqvTpbfOVZI/AAAAAAAAAeA/E-H35Ouqx0MfyO50RjTY9QYdHTUoXfLhwCLcBGAs/s1600/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="INFANTIL",BR:NatGeo Kids HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141928
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="BR:NatGeo Kids SD." tvg-logo="https://2.bp.blogspot.com/-Y2rtUjbV4nM/WqvTpbfOVZI/AAAAAAAAAeA/E-H35Ouqx0MfyO50RjTY9QYdHTUoXfLhwCLcBGAs/s1600/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.png" group-title="INFANTIL",BR:NatGeo Kids SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141929
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR:Nick Jr HD." tvg-logo="https://1.bp.blogspot.com/-FDjOqWO2mUM/WqvTrcbyu8I/AAAAAAAAAeU/rVYGXOQNhzkGlAXVLT--Db58L3nLOCoQACLcBGAs/s1600/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="INFANTIL",BR:Nick Jr HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141819
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR:Nick Jr SD." tvg-logo="https://1.bp.blogspot.com/-FDjOqWO2mUM/WqvTrcbyu8I/AAAAAAAAAeU/rVYGXOQNhzkGlAXVLT--Db58L3nLOCoQACLcBGAs/s1600/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.png" group-title="INFANTIL",BR:Nick Jr SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141820
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR:Nickelodeon Principal HD." tvg-logo="https://4.bp.blogspot.com/-uSmTfg3rhdA/WqvTq0NOzgI/AAAAAAAAAeQ/HyyyY29WUU8R06v_vNCa5-euSmXzKx-PwCLcBGAs/s1600/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="INFANTIL",BR:Nickelodeon Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141817
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR:Nickelodeon SD." tvg-logo="https://4.bp.blogspot.com/-uSmTfg3rhdA/WqvTq0NOzgI/AAAAAAAAAeQ/HyyyY29WUU8R06v_vNCa5-euSmXzKx-PwCLcBGAs/s1600/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.png" group-title="INFANTIL",BR:Nickelodeon SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141818
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR:Tooncast HD." tvg-logo="https://1.bp.blogspot.com/-fEQCFXIfkCg/WqvT7MNO9wI/AAAAAAAAAg4/BfDXLqyrFYQ6EKAoeqPYHduz37PKgZQygCLcBGAs/s1600/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="INFANTIL",BR:Tooncast HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141734
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR:Tooncast SD." tvg-logo="https://1.bp.blogspot.com/-fEQCFXIfkCg/WqvT7MNO9wI/AAAAAAAAAg4/BfDXLqyrFYQ6EKAoeqPYHduz37PKgZQygCLcBGAs/s1600/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.png" group-title="INFANTIL",BR:Tooncast SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141735
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name=".BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",.BabyTV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3917
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name=".BabyTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",.BabyTV SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3916
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name=".Boomerang HD" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="INFANTIL",.Boomerang HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3907
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name=".Boomerang SD" tvg-logo="http://1.bp.blogspot.com/-vQWpR3pgmD0/VH8OXE1-OsI/AAAAAAAABC4/mO8VmaGPS0w/s1600/Boomerang2014logo-recreation_zps7369e0dd.png~original.png" group-title="INFANTIL",.Boomerang SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3906
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name=".Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="INFANTIL",.Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3897
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name=".Cartoon Network SD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="INFANTIL",.Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3896
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name=".Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",.Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3881
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name=".Discovery Kids SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",.Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3880
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name=".Disney Channel  HD" tvg-logo="https://uploaddeimagens.com.br/images/001/645/059/full/disney-channel-logo.png?1538326339" group-title="INFANTIL",.Disney Channel  HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3871
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name=".Disney Channel SD" tvg-logo="https://uploaddeimagens.com.br/images/001/645/059/full/disney-channel-logo.png?1538326339" group-title="INFANTIL",.Disney Channel SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3870
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name=".Disney Junior HD" tvg-logo="https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png" group-title="INFANTIL",.Disney Junior HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3869
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name=".Disney Junior SD" tvg-logo="https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png" group-title="INFANTIL",.Disney Junior SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3868
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name=".Disney XD HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/871/full/Disney_XD_Mixels_logo.png" group-title="INFANTIL",.Disney XD HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3867
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name=".Disney XD SD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/871/full/Disney_XD_Mixels_logo.png" group-title="INFANTIL",.Disney XD SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3866
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name=".Gloob HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIL",.Gloob HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3831
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name=".Gloob SD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="INFANTIL",.Gloob SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3830
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name=".NatGeo Kids HD" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="INFANTIL",.NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3791
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name=".NatGeo Kids SD" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="INFANTIL",.NatGeo Kids SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3790
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name=".Nick Jr HD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="INFANTIL",.Nick Jr HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3783
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name=".Nick Jr SD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="INFANTIL",.Nick Jr SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3782
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name=".Nickelodeon HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/860/full/NICKELODEON_Logo.png?1523473384" group-title="INFANTIL",.Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3781
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name=".Nickelodeon SD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/860/full/NICKELODEON_Logo.png?1523473384" group-title="INFANTIL",.Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3780
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name=".Rá-Tim-Bum HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",.Rá-Tim-Bum HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3759
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name=".Rá-Tim-Bum SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",.Rá-Tim-Bum SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3758
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name=".Tooncast HD" tvg-logo="https://4.bp.blogspot.com/-pt3Qf21GwzU/U73Da-zVjtI/AAAAAAAAjKs/wVZxjXgB8LM/s1600/tooncast.png" group-title="INFANTIL",.Tooncast HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3709
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name=".Tooncast SD" tvg-logo="https://4.bp.blogspot.com/-pt3Qf21GwzU/U73Da-zVjtI/AAAAAAAAjKs/wVZxjXgB8LM/s1600/tooncast.png" group-title="INFANTIL",.Tooncast SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3708
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name=".Zoomoo HD" tvg-logo="http://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/561b005ce4b01fb24a27a072/1524694806195/" group-title="INFANTIL",.Zoomoo HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3695
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name=".Zoomoo SD" tvg-logo="http://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/561b005ce4b01fb24a27a072/1524694806195/" group-title="INFANTIL",.Zoomoo SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3694
